@@ -1,0 +1,23 @@
+img{
+    width: 530px;
+    height: 350px;
+}
+div{
+    width: 530px;
+    border: 1px solid black;
+    margin: 20px;
+}
+h2{
+    padding: 10px;
+}
+p{
+    padding: 10px;
+}
+#id-block-2{
+    color: #f5deb3;
+    background: #808080;
+}
+#id-heading-3{
+    color:#f5deb3;
+    background: #808080;
+}
